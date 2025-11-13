@@ -1,0 +1,6 @@
+.app { min-height:100vh; background: var(--bg); }
+.main-content { max-width:1400px; margin:0 auto; padding:2rem; }
+.hero { text-align:center; margin-bottom:3rem; }
+.hero-title { font-size:3rem; font-weight:700; margin-bottom:.5rem; color:var(--text-900); }
+.hero-subtitle { color:var(--muted); }
+.results-info { margin-bottom:1.5rem; color:var(--muted); font-size:.95rem; }
